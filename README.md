@@ -1,6 +1,6 @@
 # 🐍 Kali Linux SVG Icons Collection 🔠
 
-🖼️ ![Preview](preview.svg)
+ ![Preview](https://github.com/l0gicx/kali-flat-icons/blob/main/preview.png)
 
 ## 📋 Collection Details
 - 🗃️ 1500+ SVG icons (scalable vector graphics) extracted from Kali Linux

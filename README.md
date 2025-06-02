@@ -11,6 +11,8 @@
 ## 📂 Folder Structure
 /icons/
 
+├── 0-9/  # 🔢 Icons starting with numbers (e.g., 0trace.svg)
+
 ├── a/  # 🅰️ Icons starting with 'a' (e.g., airmon-ng.svg)
 
 ├── b/  # 🅱️ Icons starting with 'b' (e.g., burpsuite.svg, binwalk.svg)
